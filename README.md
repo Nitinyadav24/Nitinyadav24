@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitinyadav24
 - 👀 I’m interested in data and data based findings using machine learning ,deep learning and NLP based techniques which are a part of larger AI eco system
-- 🌱 I’m currently learning Deep learning and computer vision using deep learning 
-- 💞️ I’m looking to collaborate on machine learning and deep learning baseed projects and hackthons 
+- 🌱 I’m currently learning Gen AI and NLP using Deep learning using various AI techniques across industries 
+- 💞️ I’m looking to collaborate on machine learning , deep learning, NLP and AI baseed projects and hackthons 
 - 📫 I can be reached via email address i.e nk24.yadav@gmail.com
 
 <!---
